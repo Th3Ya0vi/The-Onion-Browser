@@ -1,0 +1,353 @@
+{
+	"Advertising/Analytics - Adzerk": [
+		"adzerk.net"
+	]
+
+	,"Advertising/Analytics - Adform": [
+		"adform.com"
+		,"adform.net"
+	]
+
+	,"Advertising/Analytics - AdRoll": [
+		"adroll.com"
+	]
+
+	,"Advertising/Analytics - Advertisation": [
+		"advertisation.com"
+	]
+
+	,"Advertising/Analytics - AutoGuide": [
+		"autoforums.com"
+	]
+
+	,"Advertising/Analytics - Amazon": [
+		"amazon-adsystem.com"
+	]
+
+	,"Advertising/Analytics - AppNexus": [
+		"appnexus.com"
+		,"adnexusmedia.com"
+		,"adnxs.com"
+	]
+
+	,"Advertising/Analytics - BDEX": [
+		"bdex.com"
+	]
+
+	,"Advertising/Analytics - Criteo": [
+		"criteo.com"
+		,"criteo.net"
+	]
+
+	,"Advertising/Analytics - Cxense": [
+		"cxense.com"
+	]
+
+	,"Advertising/Analytics - Evidon": [
+		"evidon.com"
+		,"betrad.com"
+	]
+
+	,"Advertising/Analytics - eXelate": [
+		"exelator.com"
+	]
+
+	,"Advertising/Analytics - Google": [
+		"doubleclick.net"
+		,"1e100.net"
+		,"2mdn.net"
+		,"apis.google.com"
+		,"google-analytics.com"
+		,"googleadservices.com"
+		,"googlesyndication.com"
+		,"googletagservices.com"
+	]
+
+	,"Advertising/Analytics - Integral Ad Science": [
+		"integralads.com"
+		,"adsafeprotected.com"
+	]
+
+	,"Advertising/Analytics - Intermarkets": [
+		"intermarkets.net"
+	]
+
+	,"Advertising/Analytics - Lotame": [
+		"lotame.com"
+		,"crwdcntrl.net"
+	]
+
+	,"Advertising/Analytics - Live Intent": [
+		"liveintent.com"
+		,"liadm.com"
+	]
+
+	,"Advertising/Analytics - Livefyre": [
+		"livefyre.com"
+		,"fyre.co"
+	]
+
+	,"Advertising/Analytics - LiveRamp": [
+		"liveramp.com"
+		,"rlcdn.com"
+	]
+
+	,"Advertising/Analytics - Magnetic": [
+		"magnetic.com"
+		,"domdex.com"
+	]
+
+	,"Advertising/Analytics - Media Innovation Group": [
+		"themig.com"
+		,"mookie1.com"
+	]
+
+	,"Advertising/Analytics - Mediafed": [
+		"adchoice.feedsportal.com"
+	]
+
+	,"Advertising/Analytics - MediaMind": [
+		"sizmek.com"
+		,"serving-sys.com"
+	]
+
+	,"Advertising/Analytics - Moat": [
+		"moat.com"
+		,"moatads.com"
+	]
+
+	,"Advertising/Analytics - Nativo": [
+		"nativo.net"
+		,"postrelease.com"
+	]
+
+	,"Advertising/Analytics - NBC": [
+		"nbcudigitaladops.com"
+		,"nvg.msnbc.com"
+	]
+
+	,"Advertising/Analytics - Outbrain": [
+		"outbrain.com"
+	]
+
+	,"Advertising/Analytics - Peer39": [
+		"peer39.net"
+	]
+
+	,"Advertising/Analytics - Rubicon Project": [
+		"rubiconproject.com"
+	]
+
+	,"Advertising/Analytics - Safecount": [
+		"safecount.net"
+		,"questionmarket.com"
+	]
+
+	,"Advertising/Analytics - Signal/BrightTag": [
+		"thebrighttag.com"
+		,"btstatic.com"
+		,"signal.co"
+	]
+
+	,"Advertising/Analytics - Simplifi": [
+		"simpli.fi"
+	]
+
+	,"Advertising/Analytics - Taboola": [
+		"taboola.com"
+	]
+
+	,"Advertising/Analytics - ThoughtLeadr": [
+		"thoughtleadr.com"
+	]
+
+	,"Advertising/Analytics - The Trade Desk": [
+		"thetradedesk.com"
+		,"adsrvr.org"
+	]
+
+	,"Advertising/Analytics - TripleLift": [
+		"triplelift.com"
+		,"3lift.com"
+	]
+
+	,"Advertising/Analytics - VerticalScope": [
+		"verticalscope.com"
+	]
+
+	,"Advertising/Analytics - VigLink": [
+		"viglink.com"
+	]
+
+	,"Advertising/Analytics - Yahoo": [
+		"ads.yahoo.com"
+		,"bluelithium.com"
+	]
+
+	,"Advertising/Analytics - YieldMo": [
+		"yieldmo.com"
+	]
+
+
+	,"Analytics - Adobe": [
+		"demdex.net"
+		,"adobetag.com"
+	]
+
+	,"Analytics - BlueCava": [
+		"bluecava.com"
+	]
+
+	,"Analytics - Catchpoint": [
+		"catchpoint.com"
+		,"3gl.net"
+	]
+
+	,"Analytics - Chartbeat": [
+		"chartbeat.com"
+		,"chartbeat.net"
+	]
+
+	,"Analytics - Clicky": [
+		"clicky.com"
+		,"getclicky.com"
+	]
+
+	,"Analytics - Clicktale": [
+		"clicktale.net"
+	]
+
+	,"Analytics - comScore": [
+		"scorecardresearch.com"
+	]
+
+	,"Analytics - Cross Pixel": [
+		"crsspxl.com"
+	]
+
+	,"Analytics - Datalogix": [
+		"datalogix.com"
+		,"nexac.com"
+	]
+
+	,"Analytics - DoubleVerify": [
+		"doubleverify.com"
+	]
+
+	,"Analytics - Errorception": [
+		"errorception.com"
+	]
+
+	,"Analytics - IBM Digital Analytics": [
+		"cmcore.com"
+	]
+
+	,"Analytics - Intent IQ": [
+		"intentiq.com"
+	]
+
+	,"Analytics - Krux": [
+		"krxd.net"
+		,"krux.com"
+	]
+
+	,"Analytics - mPulse": [
+		"go-mpulse.net"
+	]
+
+	,"Analytics - New Relic": [
+		"newrelic.com"
+	]
+
+	,"Analytics - Nielsen": [
+		"nielsen.com"
+		,"imrworldwide.com"
+	]
+
+	,"Analytics - PageFair": [
+		"pagefair.com"
+		,"pagefair.net"
+	]
+
+	,"Analytics - Parsely": [
+		"parsely.com"
+	]
+
+	,"Analytics - Optimizely": [
+		"optimizely.com"
+	]
+
+	,"Analytics - Quantcast": [
+		"quantserve.com"
+	]
+
+	,"Analytics - Reddit": [
+		"pixel.redditmedia.com"
+		,"stats.redditmedia.com"
+	]
+
+	,"Analytics - StatCounter": [
+		"statcounter.com"
+	]
+
+	,"Analytics - Turn": [
+		"turn.com"
+	]
+
+	,"Analytics - Unruly": [
+		"unrulymedia.com"
+		,"unruly.co"
+	]
+
+	,"Analytics - Usabilla": [
+		"usabilla.com"
+	]
+
+	,"Analytics - WordPress": [
+		"stats.wp.com"
+		,"pixel.wp.com"
+	]
+
+
+	,"Social - AddThis": [
+		"addthis.com"
+	]
+
+	,"Social - Facebook": [
+		"facebook.com"
+		,"facebook.net"
+		,"fb.com"
+	]
+
+	,"Social - Flattr": [
+		"flattr.com"
+	]
+
+	,"Social - LinkedIn": [
+		"linkedin.com"
+	]
+
+	,"Social - Reddit": [
+		"reddit.com"
+	]
+
+	,"Social - ShareThis": [
+		"sharethis.com"
+	]
+
+	,"Social - Soundcloud": [
+		"eventlogger.soundcloud.com"
+	]
+
+	,"Social - Twitter": [
+		"twitter.com"
+	]
+
+
+	,"Unknown - pro-market": [
+		"pro-market.net"
+	]
+	,"Unknown - bktrx.com": [
+		"bkrtx.com"
+	]
+}

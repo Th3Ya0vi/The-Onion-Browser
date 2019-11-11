@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DuckDuckGo</key>
+	<dict>
+		<key>search_url</key>
+		<string>https://3g2upl4pq6kufc4m.onion/?q=%@</string>
+		<key>homepage_url</key>
+		<string>https://3g2upl4pq6kufc4m.onion/</string>
+		<key>autocomplete_url</key>
+		<string>https://3g2upl4pq6kufc4m.onion/ac/?type=list&amp;q=%@</string>
+	</dict>
+	<key>Google</key>
+	<dict>
+		<key>search_url</key>
+		<string>https://www.google.com/search?q=%@</string>
+		<key>homepage_url</key>
+		<string>https://www.google.com/</string>
+		<key>autocomplete_url</key>
+		<string>https://www.google.com/complete/search?client=firefox&amp;q=%@</string>
+	</dict>
+	<key>Startpage</key>
+	<dict>
+		<key>search_url</key>
+		<string>https://startpage.com/do/search</string>
+		<key>homepage_url</key>
+		<string>https://startpage.com/</string>
+		<key>autocomplete_url</key>
+		<string>https://startpage.com/do/suggest?format=plain</string>
+		<key>post_params</key>
+		<dict>
+			<key>query</key>
+			<string>%@</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

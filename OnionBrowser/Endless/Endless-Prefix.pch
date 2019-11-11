@@ -1,0 +1,42 @@
+/*
+ * Endless
+ * Copyright (c) 2014-2015 joshua stein <jcs@jcs.org>
+ *
+ * See LICENSE file for redistribution terms.
+ */
+
+#ifndef Endless_Endless_Prefix_pch
+#define Endless_Endless_Prefix_pch
+
+#if DEBUG
+
+/* NSLog() all network activity and boring stuff */
+#define TRACE
+
+/* be verbose about cookie management */
+#define TRACE_COOKIES
+
+/* be verbose about host-specific settings management */
+#define TRACE_HOST_SETTINGS
+
+/* be verbose about HTTP Strict Transport Security */
+#define TRACE_HSTS
+
+/* be verbose about HTTPS Everywhere workings */
+#define TRACE_HTTPS_EVERYWHERE
+
+/* be verbose about javascript IPC */
+#define TRACE_IPC
+
+/* be verbose about URL blocking */
+#define TRACE_URL_BLOCKER
+
+/* log raw HTTP requests and responses */
+#undef TRACE_RAW_HTTP
+
+/* be verbose about hardware keyboard processing */
+#undef TRACE_KEYBOARD_INPUT
+
+#endif
+
+#endif
